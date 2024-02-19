@@ -13,3 +13,4 @@ Frontend: HTML5, CSS3, JavaScript
 Framework JavaScript: React.js
 API de Noticias: NewsAPI
 
+# WebNoticiasApiRC
